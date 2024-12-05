@@ -1,0 +1,7 @@
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.csproj.AssemblyReference.cache
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.GeneratedMSBuildEditorConfig.editorconfig
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.AssemblyInfoInputs.cache
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.AssemblyInfo.cs
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.csproj.CoreCompileInputs.cache
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.MvcApplicationPartsAssemblyInfo.cs
+M:\WEB-API\les4\les3\obj\Debug\net8.0\les4.MvcApplicationPartsAssemblyInfo.cache
